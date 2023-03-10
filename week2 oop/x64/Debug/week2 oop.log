@@ -1,0 +1,5 @@
+﻿  week2 oop.cpp
+C:\Users\grade\Desktop\week2 oop\week2 oop\week2 oop.cpp(84,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grade\Desktop\week2 oop\week2 oop\week2 oop.cpp(86,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grade\Desktop\week2 oop\week2 oop\week2 oop.cpp(89,75): warning C4305: 'initializing': truncation from 'double' to 'float'
+  week2 oop.vcxproj -> C:\Users\grade\Desktop\week2 oop\x64\Debug\week2 oop.exe

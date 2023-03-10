@@ -1,0 +1,7 @@
+Name: Titanic Release Year: 1997 Length: 3.25 Genre: Romance 
+Name: Die hard Release Year: 1988 Length: 2.2 Genre: Action 
+Name: The last of us Release Year: 2023 Length: 1 Genre: Thriller 
+Name: Jurassic Park Release Year: 1993 Length: 2.15 Genre: Adventure 
+Name: Scream Release Year: 1996 Length: 2 Genre: Horror 
+Name: The notebook Release Year: 2004 Length: 2 Genre: Romance 
+Name: The silence of the lambs Release Year: 1991 Length: 1.9 Genre: Horror 
